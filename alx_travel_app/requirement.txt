@@ -5,3 +5,4 @@ drf-yasg
 mysqlclient
 django-environ
 celery
+gunicorn
