@@ -72,3 +72,5 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'your_email@gmail.com'   # replace or use .env
 EMAIL_HOST_PASSWORD = 'your_password'      # replace or use .env
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
+ALLOWED_HOSTS = ['*']
+
